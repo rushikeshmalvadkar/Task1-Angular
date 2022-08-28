@@ -1,0 +1,34 @@
+
+  [
+  {
+    "productName": "Tshirt",
+    "productPrice": "200",
+    "productAvalibality": "Availabe"
+  },
+  {
+    "productName": "Paint",
+    "productPrice": "300",
+    "productAvalibality": "Availabe"
+  },
+  {
+    "productName": "FullShirt",
+    "productPrice": "400",
+    "productAvalibality": "Availabe"
+ } ,
+  {
+    "productName": "sweatShirt",
+    "productPrice": "500",
+    "productAvalibality": "Availabe"
+  },
+  {
+    "productName": "chaddi",
+    "productPrice": "100",
+    "productAvalibality": "Availabe"
+  },
+  {
+    "productName": "sadi",
+    "productPrice": "500",
+    "productAvalibality": "Availabe"
+  }
+
+]

@@ -1,0 +1,15 @@
+<div class="container">
+  <div class=" bg-primary text-center">
+
+    <h1>ProductList</h1>
+  </div>
+  <div class="row container">
+    <div *ngFor="let product of Products" class="card col-md-2 card border-success mr-3 mt-1" >
+      <h6 class="text-primary card-title ">{{product.productName}}</h6><br>
+      <h6>{{product.productPrice|currency}}</h6><br>
+      <h6>{{product.productAvalibality}}</h6>
+    </div>
+  </div>
+
+
+</div>
